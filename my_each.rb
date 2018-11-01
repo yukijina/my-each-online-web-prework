@@ -14,6 +14,6 @@ end
 
 number = [1,2,3,4]
 
-my_each(number).each do |n|
+my_each(number). do |n|
   puts n 
 end
